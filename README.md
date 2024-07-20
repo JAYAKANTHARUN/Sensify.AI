@@ -1,4 +1,16 @@
-# Sensify.AI
+# Vision.X
+![Screenshot 2024-06-25 135704](https://github.com/Manu-N-S/ZILCKATHON-HFT-SerVIsta/assets/98375679/dc77bff8-8b8b-4590-8bcc-e8b7d999f530)
+
+## Architecture
+![Screenshot 2024-06-25 135236](https://github.com/Manu-N-S/ZILCKATHON-HFT-SerVIsta/assets/98375679/ae75739b-b11b-4b08-9c2a-1d5f04c900aa)
+
+![Screenshot 2024-06-25 135257](https://github.com/Manu-N-S/ZILCKATHON-HFT-SerVIsta/assets/98375679/efb76462-4f40-4a0c-8bb9-29a53f4077df)
+
+## Demo Image
+
+![Screenshot 2024-06-25 135318](https://github.com/Manu-N-S/ZILCKATHON-HFT-SerVIsta/assets/98375679/66a4fd3c-03c4-4187-b8ac-54b98ebfffc7)
+
+
 
 [![Flutter Version](https://img.shields.io/badge/Flutter-v2.10.0-blue.svg)](https://flutter.dev/docs/get-started/install)
 [![Dart Version](https://img.shields.io/badge/Dart-v2.14.0-blue.svg)](https://dart.dev/get-dart)
@@ -53,7 +65,7 @@ Now that you have the project and its dependencies installed, you can run the ap
     ```bash
     flutter run 
 
-# Sensify.AI - Backend
+# Vision.AI - Backend
 
 ## Overview
 
